@@ -13,7 +13,11 @@ __pycache__/
 *.docx
 local_inputs/
 local_outputs/
+Intubation video_frames/
+marked_frames/
 landmark_review/
 landmark_movement/
 cotracker_results/
+Snapshots_fixed-*.json
+Marked Snapshots*.json
 *_sorted.json
