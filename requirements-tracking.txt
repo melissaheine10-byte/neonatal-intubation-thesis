@@ -1,0 +1,8 @@
+# Reproduces the CPU run on Intel macOS with Python 3.11.
+torch==2.2.2
+numpy==1.26.4
+einops==0.8.2
+imageio[ffmpeg]==2.38.2
+imageio-ffmpeg==0.8.1
+Pillow==13.0.0
+tqdm==4.70.1
